@@ -1,0 +1,6 @@
+{
+  "name": "Vcam pro - Android Virtual Camera & Camera Bypass App",
+  "description": "High-performance virtual camera app for Android. Bypass camera restrictions, mock live streams, and make fake video calls on WhatsApp & Telegram (Root / Non-Root compatible).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
